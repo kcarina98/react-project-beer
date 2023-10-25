@@ -1,0 +1,25 @@
+.landing-page {
+  margin: 5%;
+}
+
+section {
+  cursor: pointer;
+}
+
+section img {
+  width: 100%;
+}
+
+section a {
+  display: block;
+  font-size: 9rem;
+  font-weight: 800;
+  padding: 3px 16px;
+  margin: -2px 0 20px 0;
+  border-radius: 0;
+}
+
+p {
+  font-size: 5rem;
+  margin-bottom: 60px;
+}

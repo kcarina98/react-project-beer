@@ -1,0 +1,27 @@
+.details {
+  margin: 5%;
+}
+
+.details img {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+.details a {
+  font-size: 5rem;
+  padding: 10px 20px;
+  border-radius: 50px;
+  margin-bottom: 35%;
+  display: inline-block;
+}
+
+.details p {
+  font-size: 3rem;
+  margin-top: 50px;
+}
+
+.loading {
+  margin-top: 20%;
+  text-align: center;
+}
